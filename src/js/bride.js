@@ -8,7 +8,7 @@ export const bride = () => {
               <figure>
                    <figcaption style="font-size: 30px;">${data.name}</figcaption>
               </figure>
-              <span style="display: ${data.id === 1 ? 'none' : 'block'}">&</span>
+              <span style="display: ${data.id === 2 ? 'none' : 'block'}">&</span>
         </li>`
     )
     // const brideListItem = (data) => (
@@ -21,8 +21,7 @@ export const bride = () => {
     //           <span style="display: ${data.id === 1 ? 'none' : 'block'}">&</span>
     //     </li>`
     // )
-    // const brideData = [data.bride.L, data.bride.P];
-    const brideData = [data.bride.P, data.bride.L];
+    const brideData = [data.bride.L, data.bride.P];
 
     renderElement(brideData, brideCouple, brideListItem);
 }

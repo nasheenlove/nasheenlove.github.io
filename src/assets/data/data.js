@@ -2,20 +2,20 @@ export const data = {
     bride: {
         L: {
             id: 1,
-            alias: 'Faiz',
-            name: 'Muhammad Faiz bin Mazlan',
+            alias: 'Nashriq',
+            name: 'Muhd Nashriq Aiman Bin Zuaini',
             child: 'Putera Pertama',
-            father: 'Mazlan bin Mahmud',
-            mother: 'Tuan Nurlaili binti Tuan Mat',
+            father: 'Allahyarham Zuaini bin Akin',
+            mother: 'Norazan binti Sidek',
             image: './src/assets/images/groom.jpeg'
         },
         P: {
             id: 2,
-            alias: 'Nabila',
-            name: 'Nabila Suraya binti Zuaini',
-            child: 'Puteri Pertama',
-            father: 'Allahyarham Zuaini bin Akin',
-            mother: 'Norazan binti Sidek',
+            alias: 'Enurin',
+            name: 'Nur Enurin Binti Kamarudin',
+            child: 'Puteri Kedua',
+            father: 'Kamarudin',
+            mother: '',
             image: './src/assets/images/bride.jpeg'
         },
 
@@ -25,8 +25,8 @@ export const data = {
     time: {
         marriage: {
             year: '2025',
-            month: 'Mei',
-            date: '3hb',
+            month: 'Oktober',
+            date: '4hb',
             day: 'Sabtu',
             hours: {
                 start: '9:00 AM',
@@ -35,22 +35,22 @@ export const data = {
         },
         reception: {
             year: '2025',
-            month: 'Mei',
-            date: '3hb',
+            month: 'Oktober',
+            date: '4hb',
             day: 'Sabtu',
             hours: {
                 start: '7:30 malam',
                 finish: '11:00 malam'
             }
         },
-        address: 'Premiera Hotel Kuala Lumpur'
+        address: 'Villa Busainna Wedding Hall, Nadayu 63, Taman Melawati, Selangor'
     },
 
     link: {
         calendar: 'https://calendar.app.google/oSVLRMYC79GzuA4f9',
         map: {
-            waze : 'https://waze.com/ul/hw283fnusu',
-            googlemap : 'https://maps.app.goo.gl/G75Fj1X2ThC4C7u39',
+            waze : 'https://waze.com/ul/hw28676ts3',
+            googlemap : 'https://maps.app.goo.gl/pub4K72jxexuycQy5',
         }
     },
 

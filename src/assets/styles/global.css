@@ -1,10 +1,12 @@
 :root {
-    --primary-font-color: #2c3d82;
+    --primary-font-color: #faf9f6;
     /* --primary-font-color: #004aad; */
     /* --primary-font-color: #686464; */
     /* --primary-font-color: #141e46; */
+
     /* --bg-color: #f8f9fa; */
-    --bg-color: #eaf5ff;
+    /* --bg-color: #eaf5ff; */
+    --bg-color: #640a02;
 
     --fontSize-heading-lg: 3rem;
     --fontSize-heading-base: 2.8rem;
@@ -86,6 +88,10 @@ hr {
 .font-dim {
     font-size: 1.0rem;
     color: #777;
+}
+
+.font-dark {
+    color: #3a3838;
 }
 
 @keyframes rotate {

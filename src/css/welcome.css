@@ -6,10 +6,13 @@
     justify-content: center;
     flex-direction: column;
     text-align: center;
-    background-color: #faf9f6;
+    background-color: #640a02;
+    /* background-color: #6e0d03; */
+    /* background-color: #faf9f6; */
     /* background-color: #fbfbfb; */
     /* background-color: #141e46; */
-    background-image: url("../assets/images/bg.svg");
+    /* background-image: url("../assets/images/bg.svg"); */
+    background-image: url("../assets/images/bg.png");
     background-size: 100% 100%;
     background-position: center center;
     background-repeat: no-repeat;
@@ -21,7 +24,8 @@
     right: 0;
     bottom: 0;
     z-index: 99;
-    color: #004aad;
+    /* color: #004aad; */
+    color: #faf9f6;
     transition: all 2s ease-in;
     transform: translateY(-100%);
 }
@@ -94,8 +98,8 @@
 }
 
 .welcome button:hover {
-    color: #fff;
-    background-color: #000;
+    color: #faf9f6;
+    background-color: #a17507;
 }
 
 .welcome button i {

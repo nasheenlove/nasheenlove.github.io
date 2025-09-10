@@ -15,7 +15,7 @@ export const welcome = () => {
         return `
             <img src="${coupleImage}" alt="couple animation">
             <figcaption>
-                ${bridePName} <span>&</span> ${brideLName}
+                ${brideLName} <span>&</span> ${bridePName}
             </figcaption>`;
     };
 

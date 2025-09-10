@@ -1,6 +1,6 @@
 .bride {
     width: 100%;
-    min-height: 100vh;
+    max-height: 100vh;
     text-align: center;
     padding: 10rem 8rem;
     position: relative;
