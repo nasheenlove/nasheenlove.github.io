@@ -6,7 +6,7 @@ export const bride = () => {
     const brideListItem = (data) => (
         `<li data-aos="zoom-in" data-aos-duration="1000">
               <figure>
-                   <figcaption style="font-size: 30px;">${data.name}</figcaption>
+                   <figcaption style="font-size: 32px;">${data.name}</figcaption>
               </figure>
               <span style="display: ${data.id === 2 ? 'none' : 'block'}">&</span>
         </li>`

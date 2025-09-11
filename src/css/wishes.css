@@ -97,7 +97,7 @@
 .wishes div:nth-of-type(2) > form button {
     width: 100%;
     color: #fff;
-    background-color: #a17507;
+    background-color: #886308;
     padding: 0.6rem 0;
     border-radius: 5px;
     margin-top: 1rem;
@@ -168,10 +168,10 @@
 }
 
 .wishes div:nth-of-type(3) .button-grup {
-    background-color: #a17507;
+    background-color: #886308;
     color: #fff;
     margin: 1rem auto 0;
-    border: 1px solid #ccc;
+    /* border: 1px solid #ccc; */
     border-radius: 4px;
     width: fit-content;
     display: flex;
@@ -180,7 +180,7 @@
 }
 
 .wishes div:nth-of-type(3) .button-grup > span {
-    background-color: #a17507   ;
+    background-color: #886308   ;
     color: #fff;
     width: 2rem;
     height: 2rem;
@@ -190,7 +190,7 @@
 }
 
 .wishes div:nth-of-type(3) .button-grup  button {
-    background-color: #a17507   ;
+    background-color: #886308   ;
     color: #fff;
     padding: 0.5rem 1rem;
     border: none;
@@ -219,5 +219,5 @@
 }
 
 .wishes button {
-    background-color: #a17507   ;
+    background-color: #886308   ;
 }

@@ -3,7 +3,7 @@ export const data = {
         L: {
             id: 1,
             alias: 'Nashriq',
-            name: 'Muhd Nashriq Aiman Bin Zuaini',
+            name: 'Muhammad Nashriq Aiman Bin Zuaini',
             child: 'Putera Pertama',
             father: 'Allahyarham Zuaini bin Akin',
             mother: 'Norazan binti Sidek',
