@@ -2,7 +2,7 @@
 <svg
    preserveAspectRatio="xMidYMid"
    version="1.0"
-   viewBox="0 0 17479750 63968344"
+   viewBox="0 0 3000 6750"
    zoomAndPan="magnify"
    id="svg234"
    sodipodi:docname="bg.svg"
@@ -10,8 +10,6 @@
    inkscape:export-filename="bg.svg"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
-   width="17479750"
-   height="63968344"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -25,346 +23,351 @@
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#505050"
-     inkscape:zoom="0.1158498"
-     inkscape:cx="1618.4749"
-     inkscape:cy="5161.856"
+     inkscape:zoom="0.081765461"
+     inkscape:cx="1681.6392"
+     inkscape:cy="5258.9443"
      inkscape:window-width="1344"
      inkscape:window-height="765"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="0"
-     inkscape:current-layer="g236"
-     inkscape:export-bgcolor="#ffffff0a">
-    <inkscape:page
-       x="0"
-       y="0"
-       width="17479750"
-       height="63968344"
-       id="page2"
-       margin="0"
-       bleed="0" />
-  </sodipodi:namedview>
+     inkscape:current-layer="svg234"
+     inkscape:export-bgcolor="#ffffff0a" />
   <defs
      id="defs48">
     <clipPath
        id="D">
       <path
-         d="M 100,2956 H 1725 V 4918 H 100 Z m 0,0"
+         d="M100 2956h1625v1962H100Zm0 0"
          clip-rule="nonzero"
          id="path1" />
     </clipPath>
     <clipPath
        id="G">
       <path
-         d="M 100,2956 H 1725 V 4918 H 100 Z m 0,0"
+         d="M100 2956h1625v1962H100Zm0 0"
          clip-rule="nonzero"
          id="path2" />
     </clipPath>
     <clipPath
        id="I">
       <path
-         d="M 100,2956 H 1725 V 4918 H 100 Z m 0,0"
+         d="M100 2956h1625v1962H100Zm0 0"
          clip-rule="nonzero"
          id="path3" />
     </clipPath>
     <clipPath
        id="y">
       <path
-         d="m 1693,3125 h 1057 v 785 H 1693 Z m 0,0"
+         d="M1693 3125H2750V3910H1693Zm0 0"
          clip-rule="nonzero"
          id="path4" />
     </clipPath>
     <clipPath
        id="z">
       <path
-         d="m 2240,3860 h 30 v 67 h -30 z m 0,0"
+         d="M2240 3860h30v67h-30zm0 0"
          clip-rule="nonzero"
          id="path5" />
     </clipPath>
     <clipPath
+       id="A">
+      <path
+         d="M2230 3850h50v77h-50zm0 0"
+         clip-rule="nonzero"
+         id="path6" />
+    </clipPath>
+    <clipPath
        id="B">
       <path
-         d="m 2240,3880 h 30 v 47 h -30 z m 0,0"
+         d="M2240 3880h30v47h-30zm0 0"
          clip-rule="nonzero"
          id="path7" />
     </clipPath>
     <clipPath
+       id="C">
+      <path
+         d="M2240 3870h40v57h-40zm0 0"
+         clip-rule="nonzero"
+         id="path8" />
+    </clipPath>
+    <clipPath
        id="J">
       <path
-         d="M 100,2956 H 1725 V 4918 H 100 Z m 0,0"
+         d="M100 2956h1625v1962H100Zm0 0"
          clip-rule="nonzero"
          id="path9" />
     </clipPath>
     <clipPath
        id="o">
       <path
-         d="m 1693,3125 h 1057 v 785 H 1693 Z m 0,0"
+         d="M1693 3125H2750V3910H1693Zm0 0"
          clip-rule="nonzero"
          id="path10" />
     </clipPath>
     <clipPath
        id="p">
       <path
-         d="m 2240,3860 h 30 v 67 h -30 z m 0,0"
+         d="M2240 3860h30v67h-30zm0 0"
          clip-rule="nonzero"
          id="path11" />
     </clipPath>
     <clipPath
        id="q">
       <path
-         d="m 2230,3850 h 50 v 77 h -50 z m 0,0"
+         d="M2230 3850h50v77h-50zm0 0"
          clip-rule="nonzero"
          id="path12" />
     </clipPath>
     <clipPath
        id="r">
       <path
-         d="m 2240,3880 h 30 v 47 h -30 z m 0,0"
+         d="M2240 3880h30v47h-30zm0 0"
          clip-rule="nonzero"
          id="path13" />
     </clipPath>
     <clipPath
        id="s">
       <path
-         d="m 2240,3870 h 40 v 57 h -40 z m 0,0"
+         d="M2240 3870h40v57h-40zm0 0"
          clip-rule="nonzero"
          id="path14" />
     </clipPath>
     <clipPath
        id="k">
       <path
-         d="m 1030,5520 h 470 v 1010 h -470 z m 0,0"
+         d="M1030 5520h470v1010h-470zm0 0"
          clip-rule="nonzero"
          id="path15" />
     </clipPath>
     <clipPath
        id="l">
       <path
-         d="m 1033,5526 450,-10 20,1004 -450,10 z m 0,0"
+         d="m1033 5526 450-10 20 1004-450 10zm0 0"
          clip-rule="nonzero"
          id="path16" />
     </clipPath>
     <clipPath
        id="m">
       <path
-         d="m 1480,5517 -450,9 20,1003 450,-9 z m 0,0"
+         d="m1480 5517-450 9 20 1003 450-9zm0 0"
          clip-rule="nonzero"
          id="path17" />
     </clipPath>
     <clipPath
        id="n">
       <path
-         d="m 1480,5517 -450,9 20,1003 450,-9 z m 0,0"
+         d="m1480 5517-450 9 20 1003 450-9zm0 0"
          clip-rule="nonzero"
          id="path18" />
     </clipPath>
     <clipPath
        id="E">
       <path
-         d="M 100,2956 H 1725 V 4918 H 100 Z m 0,0"
+         d="M100 2956h1625v1962H100Zm0 0"
          clip-rule="nonzero"
          id="path19" />
     </clipPath>
     <clipPath
        id="t">
       <path
-         d="m 1693,3125 h 1057 v 785 H 1693 Z m 0,0"
+         d="M1693 3125H2750V3910H1693Zm0 0"
          clip-rule="nonzero"
          id="path20" />
     </clipPath>
     <clipPath
        id="u">
       <path
-         d="m 2240,3860 h 30 v 67 h -30 z m 0,0"
+         d="M2240 3860h30v67h-30zm0 0"
          clip-rule="nonzero"
          id="path21" />
     </clipPath>
     <clipPath
        id="v">
       <path
-         d="m 2230,3850 h 50 v 77 h -50 z m 0,0"
+         d="M2230 3850h50v77h-50zm0 0"
          clip-rule="nonzero"
          id="path22" />
     </clipPath>
     <clipPath
        id="w">
       <path
-         d="m 2240,3880 h 30 v 47 h -30 z m 0,0"
+         d="M2240 3880h30v47h-30zm0 0"
          clip-rule="nonzero"
          id="path23" />
     </clipPath>
     <clipPath
        id="x">
       <path
-         d="m 2240,3870 h 40 v 57 h -40 z m 0,0"
+         d="M2240 3870h40v57h-40zm0 0"
          clip-rule="nonzero"
          id="path24" />
     </clipPath>
     <clipPath
        id="H">
       <path
-         d="M 100,2956 H 1725 V 4918 H 100 Z m 0,0"
+         d="M100 2956h1625v1962H100Zm0 0"
          clip-rule="nonzero"
          id="path25" />
     </clipPath>
     <clipPath
        id="F">
       <path
-         d="M 100,2956 H 1725 V 4918 H 100 Z m 0,0"
+         d="M100 2956h1625v1962H100Zm0 0"
          clip-rule="nonzero"
          id="path26" />
     </clipPath>
     <clipPath
        id="K">
       <path
-         d="m 130,210 h 580 v 840 H 130 Z m 0,0"
+         d="M130 210h580v840H130Zm0 0"
          clip-rule="nonzero"
          id="path27" />
     </clipPath>
     <clipPath
        id="L">
       <path
-         d="M 934,850 588,1138 -54,367 292,80 Z m 0,0"
+         d="m934 850-346 288-642-771L292 80Zm0 0"
          clip-rule="nonzero"
          id="path28" />
     </clipPath>
     <clipPath
        id="M">
       <path
-         d="M 934,850 588,1138 -54,367 292,80 Z m 0,0"
+         d="m934 850-346 288-642-771L292 80Zm0 0"
          clip-rule="nonzero"
          id="path29" />
     </clipPath>
     <clipPath
        id="N">
       <path
-         d="M 934,850 588,1138 -54,367 292,80 Z m 0,0"
+         d="m934 850-346 288-642-771L292 80Zm0 0"
          clip-rule="nonzero"
          id="path30" />
     </clipPath>
     <clipPath
        id="d">
       <path
-         d="M 100,5180 H 970 V 6672 H 100 Z m 0,0"
+         d="M100 5180h870v1492H100Zm0 0"
          clip-rule="nonzero"
          id="path31" />
     </clipPath>
     <clipPath
        id="e">
       <path
-         d="m 610,5144 h 120 v 116 H 610 Z m 0,0"
+         d="M610 5144h120V5260H610Zm0 0"
          clip-rule="nonzero"
          id="path32" />
     </clipPath>
     <clipPath
        id="f">
       <path
-         d="m 560,5850 h 476 v 550 H 560 Z m 0,0"
+         d="M560 5850h476v550H560Zm0 0"
          clip-rule="nonzero"
          id="path33" />
     </clipPath>
     <clipPath
        id="g">
       <path
-         d="m 1240,690 h 30 v 50 h -30 z m 0,0"
+         d="M1240 690h30v50h-30zm0 0"
          clip-rule="nonzero"
          id="path34" />
     </clipPath>
     <clipPath
        id="h">
       <path
-         d="m 1166,526 240,-9 15,427 -240,9 z m 0,0"
+         d="m1166 526 240-9 15 427-240 9zm0 0"
          clip-rule="nonzero"
          id="path35" />
     </clipPath>
     <clipPath
        id="i">
       <path
-         d="m 1166,526 240,-9 15,427 -240,9 z m 0,0"
+         d="m1166 526 240-9 15 427-240 9zm0 0"
          clip-rule="nonzero"
          id="path36" />
     </clipPath>
     <clipPath
        id="j">
       <path
-         d="m 1166,526 240,-9 15,427 -240,9 z m 0,0"
+         d="m1166 526 240-9 15 427-240 9zm0 0"
          clip-rule="nonzero"
          id="path37" />
     </clipPath>
     <clipPath
        id="O">
       <path
-         d="m 1240,690 h 30 v 50 h -30 z m 0,0"
+         d="M1240 690h30v50h-30zm0 0"
          clip-rule="nonzero"
          id="path38" />
     </clipPath>
     <clipPath
        id="P">
       <path
-         d="m 1166,526 240,-9 15,427 -240,9 z m 0,0"
+         d="m1166 526 240-9 15 427-240 9zm0 0"
          clip-rule="nonzero"
          id="path39" />
     </clipPath>
     <clipPath
        id="Q">
       <path
-         d="m 1166,526 240,-9 15,427 -240,9 z m 0,0"
+         d="m1166 526 240-9 15 427-240 9zm0 0"
          clip-rule="nonzero"
          id="path40" />
     </clipPath>
     <clipPath
        id="R">
       <path
-         d="m 1166,526 240,-9 15,427 -240,9 z m 0,0"
+         d="m1166 526 240-9 15 427-240 9zm0 0"
          clip-rule="nonzero"
          id="path41" />
     </clipPath>
     <clipPath
        id="a">
       <path
-         d="M 100,5180 H 970 V 6672 H 100 Z m 0,0"
+         d="M100 5180h870v1492H100Zm0 0"
          clip-rule="nonzero"
          id="path42" />
     </clipPath>
     <clipPath
        id="b">
       <path
-         d="m 610,5144 h 120 v 116 H 610 Z m 0,0"
+         d="M610 5144h120V5260H610Zm0 0"
          clip-rule="nonzero"
          id="path43" />
     </clipPath>
     <clipPath
        id="c">
       <path
-         d="m 560,5850 h 476 v 550 H 560 Z m 0,0"
+         d="M560 5850h476v550H560Zm0 0"
          clip-rule="nonzero"
          id="path44" />
     </clipPath>
     <clipPath
        id="S">
       <path
-         d="m 1240,690 h 30 v 50 h -30 z m 0,0"
+         d="M1240 690h30v50h-30zm0 0"
          clip-rule="nonzero"
          id="path45" />
     </clipPath>
     <clipPath
        id="T">
       <path
-         d="m 1166,526 240,-9 15,427 -240,9 z m 0,0"
+         d="m1166 526 240-9 15 427-240 9zm0 0"
          clip-rule="nonzero"
          id="path46" />
     </clipPath>
     <clipPath
        id="U">
       <path
-         d="m 1166,526 240,-9 15,427 -240,9 z m 0,0"
+         d="m1166 526 240-9 15 427-240 9zm0 0"
          clip-rule="nonzero"
          id="path47" />
     </clipPath>
     <clipPath
        id="V">
       <path
-         d="m 1166,526 240,-9 15,427 -240,9 z m 0,0"
+         d="m1166 526 240-9 15 427-240 9zm0 0"
          clip-rule="nonzero"
          id="path48" />
     </clipPath>
@@ -372,7 +375,9 @@
   <g
      id="g236"
      style="fill:#00ff00;fill-opacity:1"
-     transform="translate(4596298,10670027)">
+     inkscape:export-filename="g236.svg"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96">
     <g
        clip-path="url(#a)"
        transform="rotate(-53.4,-913,1733)"

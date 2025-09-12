@@ -22,13 +22,6 @@ export const welcome = () => {
     const generateParameterContent = () => {
         const name = document.querySelector('#name');
         const params = getQueryParameter('to');
-
-        // if (params) {
-        //     weddingToElement.innerHTML = `Kepada Yth Bapak/Ibu/Saudara/i<br><span>${params}</span>`;
-        //     name.value = params;
-        // } else {
-        //     weddingToElement.innerHTML = `Kepada Yth Bapak/Ibu/Saudara/i<br><span>Teman-teman semua</span>`;
-        // }
     }
 
     const initialAudio = () => {

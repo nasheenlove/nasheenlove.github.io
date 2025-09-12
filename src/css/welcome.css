@@ -14,7 +14,7 @@
     /* background-color: #141e46; */
     /* background-image: url("../assets/images/bg.svg"); */
     background-image: url("../assets/images/bg.png");
-    background-size: 100% 100%;
+    background-size: 500px;
     background-position: center center;
     background-repeat: no-repeat;
     height: 100vh;
@@ -65,9 +65,10 @@
 }
 
 .welcome figure figcaption {
-    font-size: var(--fontSize-heading-base);
+    /* font-size: var(--fontSize-heading-base); */
+    font-size: 40px;
     font-family: var(--sacramento);
-    font-weight: 400;
+    font-weight: 100;
     margin-top: 2rem;
 }
 
